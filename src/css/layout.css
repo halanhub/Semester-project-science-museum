@@ -64,10 +64,10 @@
     transform: translateY(-9px) rotate(-45deg);
 }
 
-/* Hero Section */
+/* Hero Section (homapage) */
 .hero {
     background: linear-gradient(rgba(43, 62, 80, 0.8), rgba(43, 62, 80, 0.8)),
-                url('/src/images/hero-image.jpg') center/cover;
+                url('/src/images/hero-image.webp') center/cover;
     height: 80vh;
     display: flex;
     align-items: center;
