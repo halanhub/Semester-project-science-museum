@@ -505,10 +505,10 @@ footer {
 
 /* 404 Page  */
  .error-container {
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+     align-items: center;
             justify-content: center;
             text-align: center;
             padding: 2rem;
